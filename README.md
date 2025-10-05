@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá!, Me chamo Rayany Veronica
 
-<!--
-**Rayanyv1/Rayanyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Desenvolvedora Full Stack
+- 🌱 Estudando Analise de desenvolvimento de sistemas
+- 📫 Email: rayanysouza9@gmail.com
+- 😄 Ela/Dela
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayanyv1&show_icons=true&theme=midnight-purple)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+![Snack animation]https://github.com/Rayanyv1
